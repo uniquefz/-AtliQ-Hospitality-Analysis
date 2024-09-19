@@ -1,7 +1,7 @@
 # AtliQ-Hospitality-Analysis
 
 # Live Dashboard:
-**Explore the live dashboard:** Click Here
+**Explore the live dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNDkyNjk0ZDAtYWQ4OC00NTBhLWFmYTgtMmVkMzAzODI4OGQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # Overview:
