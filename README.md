@@ -30,10 +30,16 @@ This project is about AtliQ Grands, a well-known company that runs a chain of lu
 
 # Some of Key Insights 
 1.Mumbai generated highest revenue (669M) and Delhi generated lowest revenue(290.92M).
+
 2.Luxury generated more revenue i.e 61.62% as compared to Business category which generated 38.82% of total revenue i.e 1.69 billion.
+
 3.Occupancy % is highest for Delhi i.e.60.44 % inspite of having lowest DSRN i.e.435 and lowest for Bangalore i.e. 55.68 %.
+
 4.AtliQ Exotica is the best performer among all properties with 316M revenue, average rating is 3.62, occupancy % is 57.20% and cancellation rate is 24.39 %.
+
 5.On Weekend (fri – sat)Occupancy % is 7 % more than weekdays but difference in RevPAR is negligible.
+
+
 
 
 
