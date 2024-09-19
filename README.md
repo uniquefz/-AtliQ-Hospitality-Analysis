@@ -44,6 +44,11 @@ This project is about AtliQ Grands, a well-known company that runs a chain of lu
 5.On Weekend (fri – sat)Occupancy % is 7 % more than weekdays but difference in RevPAR is negligible.
 
 
+# Data Sources:
+**Visualization Tool:-** Power BI
+**Database:-** Excel
+
+
 
 
 
